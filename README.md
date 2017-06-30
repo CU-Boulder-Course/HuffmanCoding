@@ -1,0 +1,2 @@
+# HuffmanCoding
+Simple Huffman coding.
